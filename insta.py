@@ -31,7 +31,7 @@ EMOJIS = {
 }
 
 # ======================= CONFIG =======================
-BOT_TOKEN = "7956913723:AAFOToJ2IMaSIcUtQ5fgtw2q43xpXr3XvLE"
+BOT_TOKEN = "8654773184:AAGNUr4utN8SXpLJcpbEgbPjf42Kq_-f8lI"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 # ======================= INSTAGRAM DOWNLOADER WITH PROGRESS =======================
